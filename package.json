@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float32",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Utilities for single-precision floating-point numbers.",
   "license": "Apache-2.0",
   "author": {
