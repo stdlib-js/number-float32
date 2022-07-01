@@ -71,7 +71,7 @@
     "@stdlib/number-float32-base-to-word": "^0.0.x",
     "@stdlib/number-float64-base-to-float32": "^0.0.x",
     "@stdlib/random-base-randu": "^0.0.x",
-    "@stdlib/string-format": "^0.0.x",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x",
     "@stdlib/string-left-pad": "^0.0.x",
     "@stdlib/string-repeat": "^0.0.x",
     "@stdlib/string-right-pad": "^0.0.x",
