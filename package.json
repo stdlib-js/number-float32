@@ -42,6 +42,7 @@
   "devDependencies": {
     "@stdlib/array-float32": "^0.0.x",
     "@stdlib/array-uint32": "^0.0.x",
+    "@stdlib/assert-has-own-property": "^0.0.x",
     "@stdlib/assert-is-array": "^0.0.x",
     "@stdlib/assert-is-boolean": "^0.0.x",
     "@stdlib/assert-is-string": "^0.0.x",
@@ -75,6 +76,7 @@
     "@stdlib/string-left-pad": "^0.0.x",
     "@stdlib/string-repeat": "^0.0.x",
     "@stdlib/string-right-pad": "^0.0.x",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
     "@stdlib/utils-keys": "^0.0.x",
     "@stdlib/utils-try-require": "^0.0.x",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
