@@ -4,11 +4,143 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-04-07)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="number-float32-base-add-unreleased">
+
+#### [@stdlib/number/float32/base/add](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/add)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`6f5ff44`](https://github.com/stdlib-js/stdlib/commit/6f5ff446d16255dec7a70319ed2f71b2f546e72c) - add `number/float32/base/add`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-float32-base-div-unreleased">
+
+#### [@stdlib/number/float32/base/div](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/div)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5928127`](https://github.com/stdlib-js/stdlib/commit/5928127d8f24750ec68278e6c5cd5adf1c7e95c3) - add `number/float32/base/div`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-float32-base-identity-unreleased">
+
+#### [@stdlib/number/float32/base/identity](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/identity)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`0572aac`](https://github.com/stdlib-js/stdlib/commit/0572aac77e209513ff935c75f33801451e4a5e33) - add `number/float32/base/identity`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-float32-base-mul-unreleased">
+
+#### [@stdlib/number/float32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/mul)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`7ae2f22`](https://github.com/stdlib-js/stdlib/commit/7ae2f22a800770e00e3de3d54649399d84f99c4d) - add `number/float32/base/mul`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-float32-base-signbit-unreleased">
+
+#### [@stdlib/number/float32/base/signbit](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/signbit)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9aaeaaa`](https://github.com/stdlib-js/stdlib/commit/9aaeaaadf0c59b4d42e2ba7e1a6ea42a1ae2b09d) - add C implementation for `number/float32/base/signbit` [(#3399)](https://github.com/stdlib-js/stdlib/pull/3399)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-float32-base-sub-unreleased">
+
+#### [@stdlib/number/float32/base/sub](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/sub)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`e8c4318`](https://github.com/stdlib-js/stdlib/commit/e8c4318e592586ca53fd53f5ddebd9be16ac9208) - add `number/float32/base/sub`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 </section>
 
@@ -18,8 +150,12 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Gururaj Gurram
+-   Karan Anand
+-   Neeraj Pathak
 -   Philipp Burckhardt
 
 </section>
@@ -32,6 +168,22 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`1820a95`](https://github.com/stdlib-js/stdlib/commit/1820a95fb1d37471413f822d2ce004c1b8752b39) - **docs:** update related packages sections [(#6503)](https://github.com/stdlib-js/stdlib/pull/6503) _(by stdlib-bot)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
+-   [`0572aac`](https://github.com/stdlib-js/stdlib/commit/0572aac77e209513ff935c75f33801451e4a5e33) - **feat:** add `number/float32/base/identity` _(by Gururaj Gurram)_
+-   [`635e38f`](https://github.com/stdlib-js/stdlib/commit/635e38f2c94c01bf24593efce94d1b71811cad4f) - **refactor:** rename file in `number/float32/base/add` [(#5498)](https://github.com/stdlib-js/stdlib/pull/5498) _(by Gururaj Gurram)_
+-   [`a4d7692`](https://github.com/stdlib-js/stdlib/commit/a4d7692d31b5f0d46415e9df7b1f6b3a3936086c) - **refactor:** rename file in `number/float32/base/mul` [(#5463)](https://github.com/stdlib-js/stdlib/pull/5463) _(by Gururaj Gurram)_
+-   [`5081120`](https://github.com/stdlib-js/stdlib/commit/50811206a32132606851c5b5505c6a1e9b145319) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`e8c4318`](https://github.com/stdlib-js/stdlib/commit/e8c4318e592586ca53fd53f5ddebd9be16ac9208) - **feat:** add `number/float32/base/sub` _(by Gururaj Gurram)_
+-   [`1eac550`](https://github.com/stdlib-js/stdlib/commit/1eac550d7e113582faa355fe13dfbb24e02d9238) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`7ae2f22`](https://github.com/stdlib-js/stdlib/commit/7ae2f22a800770e00e3de3d54649399d84f99c4d) - **feat:** add `number/float32/base/mul` _(by Gururaj Gurram)_
+-   [`adbcf39`](https://github.com/stdlib-js/stdlib/commit/adbcf39b36d49a9c2876bdc2848e9dac842cf90f) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`5928127`](https://github.com/stdlib-js/stdlib/commit/5928127d8f24750ec68278e6c5cd5adf1c7e95c3) - **feat:** add `number/float32/base/div` _(by Gururaj Gurram)_
+-   [`6f5ff44`](https://github.com/stdlib-js/stdlib/commit/6f5ff446d16255dec7a70319ed2f71b2f546e72c) - **feat:** add `number/float32/base/add` _(by Gururaj Gurram)_
+-   [`6028758`](https://github.com/stdlib-js/stdlib/commit/6028758df442105f1ac0d4240450c96cf3ad4032) - **docs:** update namespace TypeScript declaration comments [(#4758)](https://github.com/stdlib-js/stdlib/pull/4758) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`9aaeaaa`](https://github.com/stdlib-js/stdlib/commit/9aaeaaadf0c59b4d42e2ba7e1a6ea42a1ae2b09d) - **feat:** add C implementation for `number/float32/base/signbit` [(#3399)](https://github.com/stdlib-js/stdlib/pull/3399) _(by Neeraj Pathak, Athan Reines, stdlib-bot)_
+-   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
+-   [`a72a67a`](https://github.com/stdlib-js/stdlib/commit/a72a67a667bcf694e5f8f2bc3c8e62714e5832bc) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`b89c97c`](https://github.com/stdlib-js/stdlib/commit/b89c97ce0b812ff0b2aab16b4d77969d44fe3e8c) - **docs:** resolve lint errors in TS declaration files _(by Philipp Burckhardt)_
 
 </details>
