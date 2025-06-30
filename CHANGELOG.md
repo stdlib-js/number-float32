@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-12)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
 ### Features
 
+-   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451)
 -   [`0572aac`](https://github.com/stdlib-js/stdlib/commit/0572aac77e209513ff935c75f33801451e4a5e33) - add `number/float32/base/identity`
 -   [`e8c4318`](https://github.com/stdlib-js/stdlib/commit/e8c4318e592586ca53fd53f5ddebd9be16ac9208) - add `number/float32/base/sub`
 -   [`7ae2f22`](https://github.com/stdlib-js/stdlib/commit/7ae2f22a800770e00e3de3d54649399d84f99c4d) - add `number/float32/base/mul`
@@ -25,9 +26,9 @@
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 5 issues were closed in this release:
 
-[#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703)
+[#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#7003](https://github.com/stdlib-js/stdlib/issues/7003)
 
 </section>
 
@@ -39,6 +40,12 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - **feat:** add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451) _(by Karan Anand, Athan Reines)_
+-   [`647aefa`](https://github.com/stdlib-js/stdlib/commit/647aefae9b5cdc1cb4502481b99c6911ef4406bf) - **chore:** fix C lint errors [(#7460)](https://github.com/stdlib-js/stdlib/pull/7460) _(by zhanggy)_
+-   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
+-   [`6c6fd79`](https://github.com/stdlib-js/stdlib/commit/6c6fd79627e1c79e5f98e53a05456057986c911a) - **build:** add package meta data _(by Athan Reines)_
+-   [`6803252`](https://github.com/stdlib-js/stdlib/commit/68032524e51f5f6b82e06e13253836ec5a539c40) - **build:** add package meta data _(by Athan Reines)_
+-   [`7513cfe`](https://github.com/stdlib-js/stdlib/commit/7513cfee4cc2404b62615c9c9be7c882396e0b39) - **chore:** fix JavaScript lint errors [(#7047)](https://github.com/stdlib-js/stdlib/pull/7047) _(by Uday Kakade, Athan Reines)_
 -   [`66f68cf`](https://github.com/stdlib-js/stdlib/commit/66f68cf6493c41ccfe4107e76d04a6bc43769b63) - **chore:** fix EditorConfig lint errors [(#6871)](https://github.com/stdlib-js/stdlib/pull/6871) _(by zhanggy)_
 -   [`f3cfeab`](https://github.com/stdlib-js/stdlib/commit/f3cfeaba512914fe482fc3ec96f4293e104a6baf) - **chore:** fix EditorConfig lint errors [(#6861)](https://github.com/stdlib-js/stdlib/pull/6861) _(by zhanggy)_
 -   [`57953ed`](https://github.com/stdlib-js/stdlib/commit/57953ed6de1a9a8a992aa0aa884ac23259073c55) - **chore:** fix JavaScript lint errors (issue #6616) [(#6626)](https://github.com/stdlib-js/stdlib/pull/6626) _(by GURU PRASAD SHARMA, Athan Reines)_
@@ -70,7 +77,7 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GURU PRASAD SHARMA
@@ -78,6 +85,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
+-   Uday Kakade
 -   zhanggy
 
 </section>
