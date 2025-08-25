@@ -4,12 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-08-25)
 
 <section class="features">
 
 ### Features
 
+-   [`dd27f86`](https://github.com/stdlib-js/stdlib/commit/dd27f863be4a7028f73ff7b54e859eb2e0e80bc2) - add missing `number/float32/base` exports to namespace
+-   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - add `number/float32/base/assert/is-almost-equal`
+-   [`cad154a`](https://github.com/stdlib-js/stdlib/commit/cad154a928c9bf91f513828f49983b487dab44a6) - add `number/float32/base/assert/is-almost-equal-value` [(#7517)](https://github.com/stdlib-js/stdlib/pull/7517)
 -   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451)
 -   [`0572aac`](https://github.com/stdlib-js/stdlib/commit/0572aac77e209513ff935c75f33801451e4a5e33) - add `number/float32/base/identity`
 -   [`e8c4318`](https://github.com/stdlib-js/stdlib/commit/e8c4318e592586ca53fd53f5ddebd9be16ac9208) - add `number/float32/base/sub`
@@ -40,6 +43,18 @@ A total of 5 issues were closed in this release:
 
 <details>
 
+-   [`dd27f86`](https://github.com/stdlib-js/stdlib/commit/dd27f863be4a7028f73ff7b54e859eb2e0e80bc2) - **feat:** add missing `number/float32/base` exports to namespace _(by Philipp Burckhardt)_
+-   [`21ec206`](https://github.com/stdlib-js/stdlib/commit/21ec2060d7496322ce32d4f984230d0c131974cc) - **docs:** clean-up example code _(by Philipp Burckhardt)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`7483bef`](https://github.com/stdlib-js/stdlib/commit/7483bef13b1d3241347266d25a02957269419825) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
+-   [`db50901`](https://github.com/stdlib-js/stdlib/commit/db509018b6c48e7e483029ae9b4464d2f17ca77d) - **remove:** remove `number/float32/base/assert/is-almost-equal-value` _(by Karan Anand)_
+-   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - **feat:** add `number/float32/base/assert/is-almost-equal` _(by Karan Anand)_
+-   [`260a8ca`](https://github.com/stdlib-js/stdlib/commit/260a8caa90718eeb4dbbe5c6b0c2b3708085de86) - **docs:** fix examples _(by Karan Anand)_
+-   [`8ea46b6`](https://github.com/stdlib-js/stdlib/commit/8ea46b662dc6e27231d250d101e33a3cf770cd77) - **test:** update descriptions to match language used in JS tests _(by Philipp Burckhardt)_
+-   [`cad154a`](https://github.com/stdlib-js/stdlib/commit/cad154a928c9bf91f513828f49983b487dab44a6) - **feat:** add `number/float32/base/assert/is-almost-equal-value` [(#7517)](https://github.com/stdlib-js/stdlib/pull/7517) _(by Karan Anand, Athan Reines)_
 -   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - **feat:** add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451) _(by Karan Anand, Athan Reines)_
 -   [`647aefa`](https://github.com/stdlib-js/stdlib/commit/647aefae9b5cdc1cb4502481b99c6911ef4406bf) - **chore:** fix C lint errors [(#7460)](https://github.com/stdlib-js/stdlib/pull/7460) _(by zhanggy)_
 -   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
