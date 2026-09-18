@@ -4,7 +4,18 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-30)
+## Unreleased (2026-09-18)
+
+<section class="features">
+
+### Features
+
+-   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036)
+-   [`21a26f1`](https://github.com/stdlib-js/stdlib/commit/21a26f13b9fb78e54e936fdfc77e5ce4ecdfd091) - add `C` implementation to `number/float32/base/ulp-difference` [(#15001)](https://github.com/stdlib-js/stdlib/pull/15001)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +23,12 @@
 
 <details>
 
+-   [`2740b02`](https://github.com/stdlib-js/stdlib/commit/2740b02e4e820553f2ea50765ac71db10415cb06) - **refactor:** remove unnecessary `Boolean` wrapper [(#15105)](https://github.com/stdlib-js/stdlib/pull/15105) _(by Philipp Burckhardt)_
+-   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - **feat:** add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036) _(by Muhammad Haris, Athan Reines)_
+-   [`21a26f1`](https://github.com/stdlib-js/stdlib/commit/21a26f13b9fb78e54e936fdfc77e5ce4ecdfd091) - **feat:** add `C` implementation to `number/float32/base/ulp-difference` [(#15001)](https://github.com/stdlib-js/stdlib/pull/15001) _(by Muhammad Haris, Athan Reines)_
+-   [`7ae11bc`](https://github.com/stdlib-js/stdlib/commit/7ae11bca9e05607a14425d165dfed57584b880b8) - **chore:** clean-up [(#13834)](https://github.com/stdlib-js/stdlib/pull/13834) _(by Philipp Burckhardt)_
+-   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
+-   [`a669750`](https://github.com/stdlib-js/stdlib/commit/a6697506a4937b6525520ced778c2e37c1ae714f) - **bench:** refactor C benchmarks to use pre-computed values [(#13798)](https://github.com/stdlib-js/stdlib/pull/13798) _(by Nakul Krishnakumar)_
 -   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
 -   [`f54e568`](https://github.com/stdlib-js/stdlib/commit/f54e5686a93b352fac88b5e1c2c372ab1daa81b6) - **docs:** update examples and add section headings [(#13198)](https://github.com/stdlib-js/stdlib/pull/13198) _(by Philipp Burckhardt, Athan Reines)_
 -   [`098dede`](https://github.com/stdlib-js/stdlib/commit/098deded1d652e152eb6d5f86cad92ef4844e3bd) - **style:** adjust spacing and fix REPL text wrapping [(#12348)](https://github.com/stdlib-js/stdlib/pull/12348) _(by Philipp Burckhardt, Athan Reines)_
@@ -30,11 +47,13 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Lokesh Ranjan
+-   Muhammad Haris
+-   Nakul Krishnakumar
 -   Philipp Burckhardt
 -   anee3
 
