@@ -49,7 +49,7 @@
     "@stdlib/assert-is-positive-finite": "^0.2.2",
     "@stdlib/assert-is-string": "^0.2.3",
     "@stdlib/boolean-ctor": "^0.2.3",
-    "@stdlib/console-log-each-map": "^0.1.1",
+    "@stdlib/console-log-each-map": "^0.1.2",
     "@stdlib/constants-float16-eps": "^0.2.3",
     "@stdlib/constants-float16-max": "^0.2.3",
     "@stdlib/constants-float16-ninf": "^0.2.3",

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-11-05)
 
 <section class="features">
 
@@ -23,6 +23,9 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
+-   [`30a60be`](https://github.com/stdlib-js/stdlib/commit/30a60be99f60b02f409f371bd9f8caf241059feb) - **chore:** update keywords [(#16278)](https://github.com/stdlib-js/stdlib/pull/16278) _(by Philipp Burckhardt)_
+-   [`d8a1167`](https://github.com/stdlib-js/stdlib/commit/d8a116756a94bac9aeb0b4b5643fbca221de41f3) - **chore:** rename C source files according to convention [(#15435)](https://github.com/stdlib-js/stdlib/pull/15435) _(by Philipp Burckhardt)_
 -   [`2740b02`](https://github.com/stdlib-js/stdlib/commit/2740b02e4e820553f2ea50765ac71db10415cb06) - **refactor:** remove unnecessary `Boolean` wrapper [(#15105)](https://github.com/stdlib-js/stdlib/pull/15105) _(by Philipp Burckhardt)_
 -   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - **feat:** add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036) _(by Muhammad Haris, Athan Reines)_
 -   [`21a26f1`](https://github.com/stdlib-js/stdlib/commit/21a26f13b9fb78e54e936fdfc77e5ce4ecdfd091) - **feat:** add `C` implementation to `number/float32/base/ulp-difference` [(#15001)](https://github.com/stdlib-js/stdlib/pull/15001) _(by Muhammad Haris, Athan Reines)_
